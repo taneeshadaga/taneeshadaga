@@ -12,4 +12,4 @@ I’ll be starting my career in **innovation banking at SVB**, working closely w
 
 My background in **math, economics, and analytics** helps me think rigorously about **incentives, risk, and scale**, and I enjoy turning complex problems into clear models and insights.
 
-Please feel free to explore some of my [interests] (https://linktr.ee/taneeshadaga) or [email me] (taneeshadaga123@gmail.com)
+Please feel free to explore some of my [interests](https://linktr.ee/taneeshadaga) or [email me](taneeshadaga123@gmail.com)
