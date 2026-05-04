@@ -1,10 +1,8 @@
 # Hello! I'm Taneesha :)
 
-🎓 Senior at **UCLA** studying **Mathematics & Economics**  
-🏦 Incoming Associate, **Associate Development Program @ Silicon Valley Bank**   
+🎓 **UCLA** Alumna who studied **Mathematics & Economics**   
 
 ----
-
 
 I’m interested in how **capital, technology, and data** shape the innovation economy.
 
