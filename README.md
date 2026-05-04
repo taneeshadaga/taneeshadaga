@@ -1,6 +1,6 @@
 # Hello! I'm Taneesha :)
 
-I graduated **UCLA** in March 2026 with a Bachelors of Science in **Mathematics & Economics**. 
+I graduated **UCLA** with a Bachelors of Science in **Mathematics & Economics** in March 2026. 
 
 I’m interested in how **capital, technology, and data** shape the innovation economy.
 
