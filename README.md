@@ -1,6 +1,6 @@
 # Hello! I'm Taneesha :)
 
-I'm a UCLA Mathematics & Economics graduate interested in fintech, strategic finance, FP&A, AI/ML, data analysis, and operations.
+I'm a UCLA Mathematics & Economics alumna interested in fintech, strategic finance, FP&A, AI/ML, data analysis, and operations.
 
 I like working on problems where business, data, and markets intersect. My background in math, economics, and analytics has shaped how I about models, incentives, risk, and scale.
 
