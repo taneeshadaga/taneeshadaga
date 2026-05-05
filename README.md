@@ -1,9 +1,9 @@
 # Hello! I'm Taneesha :)
 
-I'm a **UCLA Mathematics & Economics** graduate interested in how **capital, technology, and data** shape the innovation economy.
+I'm a UCLA Mathematics & Economics graduate interested in fintech, strategic finance, FP&A, AI/ML, data analysis, and operations.
 
-I'm looking to move closer to the **product and decision-making layer** through roles in **fintech, strategic finance, fp&a, or AI startups** that value strong financial fundamentals, curiosity, and ownership.
+I like working on problems where business, data, and markets intersect. My background in math, economics, and analytics has shaped how I about models, incentives, risk, and scale.
 
-My background in **mathematics, economics, and analytics** helps me think rigorously about **incentives, risk, and scale**, and I enjoy turning complex problems into clear models and insights.
+I enjoy finding structure in ambiguity, patterns in data, and the incentives behind markets.
 
 Please feel free to explore some of my [interests](https://linktr.ee/taneeshadaga) or [email me](taneeshadaga123@gmail.com).
